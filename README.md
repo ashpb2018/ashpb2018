@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello👋 I'm Ashok Kandimalla 👨🏻‍💻
+## Hello👋 I'm Ash Kandimalla 👨🏻‍💻
 
 I am a Principal Cloud DevOps, Site Reliability, and Security Engineer
 
